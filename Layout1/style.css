@@ -1,0 +1,49 @@
+html{
+  box-sizing:border-box;
+  font-size:16px;
+}
+*{
+  box-sizing:inherit;
+}
+html,body{
+  height:100%;
+}
+header,footer{
+  height:10vh;
+  width:100%;
+  border:2px solid blue;
+}
+.hero{
+  height:40vh;
+  width:100%;
+  border:2px solid black;
+}
+.left{
+  height:100%;
+  width:33.33%;
+  border:2px solid black;
+  float:left;
+}
+.right{
+  height:100%;
+  width:33.33%;
+  border:2px solid black;
+  float:left;
+}
+.left{
+   height:100%;
+  width:33.33%;
+  border:2px solid black;
+  float:left;
+}
+.other-left{
+  height:100%;
+  width:50%;
+  border:2px solid black;
+  float:left;
+}
+.other-right{
+  height:100%;
+  width:50%;
+  border:2px solid black;
+}
